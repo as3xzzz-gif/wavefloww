@@ -1,0 +1,19 @@
+{
+  "name": "WaveFlow",
+  "short_name": "WaveFlow",
+  "description": "Поиск музыки и прослушивание треков",
+  "theme_color": "#1a1f33",
+  "background_color": "#0b0f1c",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/waveflow/",
+  "start_url": "/waveflow/waveflow.html",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/727/727245.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
